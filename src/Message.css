@@ -1,0 +1,18 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+}
+
+.message-user-right {
+  margin-left: auto;
+  text-align: left !important;
+}
+
+.message-user {
+  background-color: greenyellow !important;
+}
+
+.message-guest {
+  background-color: bisque !important;
+}
